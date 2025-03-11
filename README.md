@@ -38,7 +38,7 @@ Manus 能根据需求编写可运行代码并直接执行。比如，你需要�
 
 ## 我的商品链接与你的机会
 
-作为一名技术爱好者，我第一时间将 Manus 集成到我的项目中，并在 [DogAPI 人工智能接口商城](https://dogapi.ai/product/manus-ai-成品-邀请码dogapi人工智能接口商城/) 上线了成品和邀请码。这不仅是一个工具，更是一个机会——让你抢先体验 AI Agent 时代的生产力飞跃。
+作为一名技术爱好者，我第一时间将 Manus 集成到我的项目中，并在 [DogAPI 人工智能接口商城](https://dogapi.ai/product/manus-ai-成品-邀请码dogapi人工智能接口商城/) 上线了成品和邀请码![Manus AI 成品与邀请码](https://dogapi.ai/wp-content/uploads/2025/03/Manus-AI-成品_邀请码.png)。这不仅是一个工具，更是一个机会——让你抢先体验 AI Agent 时代的生产力飞跃。
 
 无论是独立开发者、初创团队，还是追求效率的程序员，Manus 都能帮你把想法变成现实。现在，点击链接获取邀请码，加入内测，一起探索这个“真干活的 AI”吧！
 
