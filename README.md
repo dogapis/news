@@ -8,6 +8,8 @@
 
 在权威的 GAIA 基准测试中，Manus 的表现超越了 OpenAI 的 Deep Research，证明了其在复杂任务处理上的硬核实力。目前，它正处于内测阶段，全网都在求邀请码，而我已经迫不及待通过 [DogAPI 商城](https://dogapi.ai/product/manus-ai-成品-邀请码dogapi人工智能接口商城/) 与大家分享它的潜力。
 
+观看 Manus 演示视频：[点击这里]([https://www.youtube.com/watch?v=视频ID](https://dogapi.ai/wp-content/uploads/2025/03/Manus-Chinese-2k-compressed-v2.mp4))
+
 ## 为什么开发者需要 Manus？
 
 传统的 AI 工具往往停留在“建议者”角色——给你答案，但后续工作还得自己动手。而 Manus 更像一个“执行者”，尤其对开发者来说，它的价值体现在以下几点：
@@ -40,7 +42,9 @@ Manus 能根据需求编写可运行代码并直接执行。比如，你需要�
 
 无论是独立开发者、初创团队，还是追求效率的程序员，Manus 都能帮你把想法变成现实。现在，点击链接获取邀请码，加入内测，一起探索这个“真干活的 AI”吧！
 
-官网：[点击直达](https://www.dogapi.ai)
+
+
+# 官网：[点击直达](https://www.dogapi.ai)
 
 **付款与货币结算**：*本产品支持支付宝、微信 等支付。（支付宝若付款页面没显示支付宝，请刷新重启网页）*
 
