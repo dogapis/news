@@ -8,7 +8,7 @@
 
 在权威的 GAIA 基准测试中，Manus 的表现超越了 OpenAI 的 Deep Research，证明了其在复杂任务处理上的硬核实力。目前，它正处于内测阶段，全网都在求邀请码，而我已经迫不及待通过 [DogAPI 商城](https://dogapi.ai/product/manus-ai-成品-邀请码dogapi人工智能接口商城/) 与大家分享它的潜力。
 
-观看 Manus 演示视频：[点击这里]([https://www.youtube.com/watch?v=视频ID](https://dogapi.ai/wp-content/uploads/2025/03/Manus-Chinese-2k-compressed-v2.mp4))
+观看 Manus 演示视频：[点击这里](https://dogapi.ai/wp-content/uploads/2025/03/Manus-Chinese-2k-compressed-v2.mp4)
 
 ## 为什么开发者需要 Manus？
 
